@@ -81,7 +81,6 @@ list_string.sort()
 print(list_string)
 list_num = [3,2,5,7,9]
 list_num.reverse()
-list_num.reverse()
 print(list_num)
 list_num.sort(reverse=False)
 print(list_num)
